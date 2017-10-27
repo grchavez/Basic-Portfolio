@@ -90,6 +90,7 @@ body {
 	border-color: #666666;
 	margin-right: 100px;
 	padding-bottom: 30px;
+	padding: 10px 20px;
 
 }
 
@@ -205,4 +206,11 @@ padding-bottom: 30px;
 	line-height: 150%;
 	color: #666666;
 	float: left;
+}
+
+button  {
+	background-color: #4aaaa5;
+	color: #eeeeee;
+	border: none;
+	padding: 5px 10px;
 }
